@@ -1,6 +1,6 @@
 # SENSE Project
 
-**Strengthening Cities and Enhancing Neighbourhood Sense of Belonging
+Strengthening Cities and Enhancing Neighbourhood Sense of Belonging
 
 ## Goals
 
